@@ -1,4 +1,4 @@
-n = input() # amount of lines to expect
+n = int(input()) # amount of lines to expect
 
 def split_long_word(s):
     length = len(s)
